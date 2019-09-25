@@ -1,6 +1,6 @@
 <?php 
 
-require_once('../Model/ContactModel.php');
+require_once(__DIR__.'/../Model/ContactModel.php');
 
 class ContactController {
     public function run() {
@@ -13,17 +13,17 @@ class ContactController {
             // IF valid, save it and thank user
             if($isValid) {
                 $contactModel->save();
-                $template = "contact_view_success.php";
-                include('../assets/views/base.php');
+                $template = "contact/contact_view_success.php";
+                include(__DIR__.'/../assets/views/base.php');
             }
             // IF NOT, render form with errors
             else {
-                $template = "contact_view_form.php";
-                include('../assets/views/base.php');
+                $template = "contact/contact_view_form.php";
+                include(__DIR__.'/../assets/views/base.php');
             }
         } else {
-            $template = "contact_view_form.php";
-            include('../assets/views/base.php');
+            $template = "contact/contact_view_form.php";
+            include(__DIR__.'/../assets/views/base.php');
         }
     }
 }
