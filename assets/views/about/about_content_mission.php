@@ -1,0 +1,7 @@
+<?php include "about_content_menu.php" ?>
+<h1>Mission</h1>
+<div>
+    Quisque laoreet urna eu nisl malesuada, et aliquam enim sollicitudin. Sed tempus ipsum et augue feugiat vestibulum. Suspendisse pulvinar metus in magna dapibus bibendum. Proin eleifend interdum quam, a interdum magna. Duis commodo ultricies enim, faucibus sodales tortor sodales et. Sed consectetur ex id magna fringilla, nec gravida orci pharetra. Sed id massa sit amet eros sollicitudin sodales ac pretium sem. Proin ac lacinia lectus, nec placerat orci. Mauris sed sodales lectus. Phasellus efficitur, est vel cursus pulvinar, neque ligula feugiat nunc, convallis aliquet quam justo nec lorem.
+    <br />
+    Ut porttitor mauris ut tristique gravida. In vel ex eget nunc ornare rutrum. Praesent tempus tortor commodo quam placerat bibendum. In tincidunt vestibulum magna et tempus. Suspendisse in volutpat purus. Nulla tristique diam eu bibendum faucibus. Vivamus dignissim porttitor purus quis auctor. Pellentesque ornare mollis ex sed mollis. Nunc ut congue quam. Integer accumsan sagittis quam a rutrum. Cras diam erat, interdum facilisis diam non, auctor facilisis nisi. Vivamus dignissim, ligula ac mollis sodales, mi urna aliquet magna, eu faucibus dolor erat id risus. Cras tempus, ipsum at vestibulum fringilla, mauris dolor ullamcorper tortor, at sagittis odio risus in ex. Nunc congue, velit sit amet sagittis commodo, nunc ante efficitur urna, nec laoreet ligula lectus ac tortor.
+</div>

@@ -1,0 +1,7 @@
+<?php include "about_content_menu.php" ?>
+<h1>Values</h1>
+<div>
+    Ut porttitor mauris ut tristique gravida. In vel ex eget nunc ornare rutrum. Praesent tempus tortor commodo quam placerat bibendum. In tincidunt vestibulum magna et tempus. Suspendisse in volutpat purus. Nulla tristique diam eu bibendum faucibus. Vivamus dignissim porttitor purus quis auctor. Pellentesque ornare mollis ex sed mollis. Nunc ut congue quam. Integer accumsan sagittis quam a rutrum. Cras diam erat, interdum facilisis diam non, auctor facilisis nisi. Vivamus dignissim, ligula ac mollis sodales, mi urna aliquet magna, eu faucibus dolor erat id risus. Cras tempus, ipsum at vestibulum fringilla, mauris dolor ullamcorper tortor, at sagittis odio risus in ex. Nunc congue, velit sit amet sagittis commodo, nunc ante efficitur urna, nec laoreet ligula lectus ac tortor.
+    <br />
+    Nullam accumsan erat in neque eleifend, vitae feugiat nisl lobortis. Nam vel faucibus neque, vitae semper elit. Integer nec enim quam. Fusce vel dictum dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed sagittis est ut massa venenatis finibus. Ut tempor lectus nulla, nec eleifend est convallis id.
+</div>

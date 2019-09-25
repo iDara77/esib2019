@@ -1,0 +1,7 @@
+<?php include "about_content_menu.php" ?>
+<h1>Vision</h1>
+<div>
+    Praesent sapien augue, finibus vitae diam vel, gravida cursus risus. Proin maximus, ante eget pellentesque fermentum, est nisl semper mi, ut pellentesque purus lorem hendrerit quam. Fusce semper vel dui ac fringilla. Proin tempus tortor sed augue blandit, nec faucibus diam efficitur. Nulla gravida vitae mauris eu facilisis. Sed id tellus fringilla, congue felis et, dignissim augue. Aliquam hendrerit, libero sit amet tincidunt maximus, nunc odio euismod diam, ut faucibus erat erat in ipsum. Praesent at purus at tortor accumsan pellentesque eget vel risus.
+    <br />
+    Quisque laoreet urna eu nisl malesuada, et aliquam enim sollicitudin. Sed tempus ipsum et augue feugiat vestibulum. Suspendisse pulvinar metus in magna dapibus bibendum. Proin eleifend interdum quam, a interdum magna. Duis commodo ultricies enim, faucibus sodales tortor sodales et. Sed consectetur ex id magna fringilla, nec gravida orci pharetra. Sed id massa sit amet eros sollicitudin sodales ac pretium sem. Proin ac lacinia lectus, nec placerat orci. Mauris sed sodales lectus. Phasellus efficitur, est vel cursus pulvinar, neque ligula feugiat nunc, convallis aliquet quam justo nec lorem.
+</div>
