@@ -13,14 +13,17 @@ class ContactController {
             // IF valid, save it and thank user
             if($isValid) {
                 $contactModel->save();
-                include('contact_view_success.php');
+                $template = "contact_view_success.php";
+                include('contact_view_base.php');
             }
             // IF NOT, render form with errors
             else {
-                include('contact_view_form.php');
+                $template = "contact_view_form.php";
+                include('contact_view_base.php');
             }
         } else {
-            include('contact_view_form.php');
+            $template = "contact_view_form.php";
+            include('contact_view_base.php');
         }
     }
 }

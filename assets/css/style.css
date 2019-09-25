@@ -1,0 +1,38 @@
+body {
+    background: #AAA;
+    font-family: Helvetica, Arial, sans-serif
+}
+h1 {
+    font-size: 38px;
+    color: rgba(128,0,128,1);
+}
+form h1 {
+    font-size: 18px;
+    color: #FFFFFF;
+}
+form label.red {
+    color: #FFFFFF;
+}
+label.red {
+    color: #FF0000;
+}
+input.red {
+    color: #00FF00;
+}
+input {
+    color: #dd3355;
+}
+.red {
+    color: #0000FF;
+}
+label {
+    width: 100px;
+    display: inline-block;
+    color: #FFFF00;
+}
+.subtitle {
+    color: cyan;
+}
+form .subtitle {
+    font-size: 12px;
+}
