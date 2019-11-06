@@ -1,5 +1,5 @@
 
-<h1>Hello</h1>
+<h1 id="main-title">Hello</h1>
 <h2 class="subtitle">Subtitle</h2>
 <form action="contact.php" method="post">
     <h1>Hello World!</h1>
@@ -7,10 +7,10 @@
     <?php if($contactModel->hasErrors) { ?>
         <div>Your form contains ERRORS!</div>
     <?php } ?>
-    <label class="red">Name:</label>
-    <input type="text" class="red" name="name" value="<?php echo array_key_exists('name',$_POST)?$_POST['name']:''; ?>" /><br/>
-    <label class="red">Email*:</label>
-    <input type="text" class="red" name="email" value="<?php echo array_key_exists('email',$_POST)?$_POST['email']:'' ?>" /><br/>
+    <label class="red" id="name-label">Name:</label>
+    <input type="text" id="name-field" class="red" name="name" value="<?php echo array_key_exists('name',$_POST)?$_POST['name']:''; ?>" /><br/>
+    <label class="red" id="email-label">Email*:</label>
+    <input type="text" id="email-field" class="red" name="email" value="<?php echo array_key_exists('email',$_POST)?$_POST['email']:'' ?>" /><br/>
     <?php if($contactModel->hasErrors && array_key_exists('email',$contactModel->errorMsg)) { ?>
         <legend><?php echo $contactModel->errorMsg['email']; ?></legend>
     <?php } ?>
